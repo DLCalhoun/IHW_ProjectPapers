@@ -1,0 +1,16 @@
+<text>
+<body>
+<div>
+
+<div type="date">
+27-31-1987
+</div>
+<p>
+<p>
+<div type="journalBody">
+<p>
+We left <placeName type"city">Forest city</placename> at 5:45 Wed. May 27 on our way to <placeName type="state">Canada</placeName>. We stopped in <placeName type="city"> Statesville, Nc</placeName> for breakfast, we had headed North and got into VA at 11:25 and stopped in <placeName type="city">Oak Hill(?)</placeName> for lunch. We went up mountains and down in valleys and throw tunnels. We seen the <placename type="landmark">New River Gorge Bridge<placeName>. In W-VA we stopped and made pictures I hope mine is ok. I didn’t know how to use it for a while, this was a long bridge—when we got into <placeName type="city">Pittsburgh PA</placeName> we seen lots of beautiful buildings even the <placeName type"landmark">Three River Statium<placeName> where the <persName type="org">Phillies</placeName> played. Then we came on to this motel, we all thought it would be a rundown place because we had seen so many run down places, but it is beautiful. We got our bags off the bus, then went to eat and park for supper. Our room was called the Suite just one room with two beds. Whispers are going on, but I’m being cool. I’m here to enjoy all I can. I haven’t spent but $20.00 so far.
+</p>
+</div>
+</body>
+</text>

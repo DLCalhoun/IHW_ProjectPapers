@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc> 
+
+<titleStmt>
+<title>Travel Journals of Mary E. Petty</title>
+<author>Mary Ellen Petty </author>
+<respStmt>
+<resp>Creation of machine-readable text by</resp>
+<name>Dana LeTriece Calhoun</name>
+</respStmt>
+<respStmt>
+<resp>Header creation by</resp>
+<name>Dana LeTriece Calhoun</name>
+</respStmt>
+<respStmt>
+<resp>Encoded by</resp>
+<name>Dana LeTriece Calhoun</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Online Text Archive</publisher>
+<pubPlace>
+<address>
+<addrLine>University of Pittsburgh</addrLine>
+<addrLine>Pittsburgh, PA</addrLine>
+</address>
+</pubPlace>
+<date when="2019-02-11"> 11 February 2019</date>
+<availability>
+<p> This text is freely available provided the text is distributed with the header information provided</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title> Travel Journals of Mary E. Petty</title> Edited by
+<editor> Dana LeTriece Calhoun</editor>. <publisher> ? </publisher>:
+<pubPlace> Pittsburgh</pubPlace>, <date>2019</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+
+
+<text>
+<body>
+<div type="editors">
+<listPerson type="editors">
+<person>
+<persName xml: id="dlc">
+<surname>Calhoun</surname>
+<forename>Dana LeTriece</forename>
+<roleName>Principal Editor</roleName>
+<roleName>Founding Editor</roleName>
+<ptr target="http://thedreadedprofessor.wordpress.com/"/>
+</persName>
+<note type="bio> Dana LeTriece Calhoun is a third-year PhD Student at the University of Pittsburgh in the Rhetoric and Composition Program. LeTriece's area of focus is digital black rhetoric and writing, with a special interest in digital language use and how it relates to space, race, and memory. LeTriece is the great-granddaughter of the subject of this document, Mary Ellen Petty.</note>
+</person>
+</listPerson>
+</div>
+</body>
+</text>
+
+
+
+
+
+</TEI>
